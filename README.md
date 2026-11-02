@@ -44,10 +44,6 @@
     <li>Always eager to share knowledge and learn from others.</li>
     <li>Passionate about exploring new technologies and taking on new challenges.</li>
 </ul>
-
-  </p>
-  <p align="center">
-  <img src="https://github.com/Hermacle/hermacle/raw/main/asserts/gif-hermacle.gif" alt="Coding gif" width= "60%"  />
   </p>
 </p>
 
